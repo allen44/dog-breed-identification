@@ -1,5 +1,5 @@
 # Summary: dog-breed-identification
-A notebook for machine learning image recognition model forthe Kaggle competition: https://www.kaggle.com/c/dog-breed-identification/
+A notebook for machine learning image recognition model for the Kaggle competition: https://www.kaggle.com/c/dog-breed-identification/
 
 # Multi-class Classification
 This notebook builds and end-to-end multi-class image classifier using TenhsorFlow 2.0 and TensorFlow Hub
